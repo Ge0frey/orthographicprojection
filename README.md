@@ -3,11 +3,9 @@
 A minimal example using D3.js to render an interactive orthographic
 globe.
 
-## Demo Video
+## Demo image
 
 ```{=html}
-<video src="Orthographicglobeprojection.mp4" controls width="600">
+<img src="Orthographicglobeprojection.mp4" alt="Orthographic globe projection using d3js" >
 ```
 ```{=html}
-</video>
-```
